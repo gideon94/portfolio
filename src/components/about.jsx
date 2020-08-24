@@ -37,8 +37,8 @@ Science and Deep Learning, graduating masters in Artificial Intelligence from NU
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Artifical Intelligence </h3>
-                    <p>As a Postgraduate in Artifical Intelligence, I learnt a great deal about machine learning and deep learning models and methodologies. Hands on experience on Computer Vision and Sequence Models, Apart from academics, I also posses Deep Learning Specialization certification by deeplearning.ai</p>
+                    <h3>Artificial Intelligence </h3>
+                    <p>As a Postgraduate in Artificial Intelligence, I learnt a great deal about machine learning and deep learning models and methodologies. Hands on experience on Computer Vision and Sequence Models, Apart from academics, I also posses Deep Learning Specialization certification by deeplearning.ai</p>
                 </div>
                 </div>
             </div>
